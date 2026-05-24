@@ -1,0 +1,44 @@
+# =========================
+# PyCharm / JetBrains IDE
+# =========================
+.idea/
+*.iml
+*.iws
+out/
+
+# =========================
+# Core Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual Environments & Secrets
+# =========================
+venv/
+env/
+.venv/
+.env
+
+# =========================
+# Testing, Cache, and Coverage
+# =========================
+.pytest_cache/
+htmlcov/
+.coverage
+.tox/
+
+# =========================
+# Build and Packaging
+# =========================
+build/
+dist/
+*.egg-info/
+*.egg
+
+# =========================
+# OS Specific Files
+# =========================
+.DS_Store
+Thumbs.db
