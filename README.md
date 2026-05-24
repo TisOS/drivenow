@@ -2,6 +2,10 @@
 
 DriveNow is a car rental app that makes it quick and easy to find, book, and start driving the right vehicle.
 
+## Elevator Pitch
+
+See [recorded video](.pitch/recording.mp4)
+
 ## Table of Contents
 - [Architecture](#architecture)
 - [Prerequisites](#prerequisites)
